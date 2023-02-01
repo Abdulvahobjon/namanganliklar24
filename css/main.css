@@ -614,3 +614,11 @@ body {
 .social__link__icon:active{
   opacity: .8;
 }
+
+
+.footer__link:hover{
+  opacity: .8;
+}
+.footer__link:active{
+  opacity: .6;
+}
